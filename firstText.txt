@@ -9,3 +9,6 @@ My first text file.
 		git status
 		git log
 		
+	new changes:
+		git clone <<link>>
+		master denotes Master project
